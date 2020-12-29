@@ -1,2 +1,2 @@
 # Eigenface
-Eigenface based face recognition assignment realized within the Computer Vision course.
+Eigenface based face recognition assignment realized within the "Computer Vision" course.
